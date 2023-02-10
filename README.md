@@ -1,16 +1,26 @@
-### Hi there 👋
+# 👋 Hi there I'm Aaron Salinas 
 
-<!--
-**asalinasf/asalinasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React 
+- 🌟 I'm a student
+- ⭐ I want to be a freelancer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😎 Here you will find my projects
+
+### The technologies that I master and I am studying
+
+<h2>HTML</h5>
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100" height="100" />
+
+<h2>CSS</h5>
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100" height="100" />
+
+<h2>JavaScript</h5>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" height="100" />
+
+ <h2>React</h5>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="100" height="100" />
+
+
+
+
